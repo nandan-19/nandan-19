@@ -11,7 +11,7 @@
 - 🌱 Currently diving deeper into **low-level systems**, **cloud infrastructure**, and building **intelligent AI agents**.
 - ⚙️ I work with **TypeScript**, **Python**, **Next.js**, **FastAPI**, **MongoDB**, **PostgreSQL**, and **C++**.
 - 💬 Always excited to explore developer tools, automation, and conversational interfaces.
-- 🧠 Learning: **System Design**, **Embedded Systems**, and **AI-powered automation**.
+- 🧠 Learning: **System Design**, **DevOps**, and **AI-powered automation**.
 
 ---
 
@@ -40,7 +40,7 @@
 
 #### 🏦 [Plutus](https://github.com/nandan-19/Plutus) – *AI-Powered Personal Finance Guide*
 > **Tech Stack:** React Native, Sarvam AI, Mistral AI, MongoDB  
-> A multilingual voice-based mobile app to enhance financial literacy.  
+> A multilingual voice-based web app to enhance financial literacy.  
 > Enables users to understand loans, track expenses, and get smart finance tips — all through natural conversations.
 
 ---
