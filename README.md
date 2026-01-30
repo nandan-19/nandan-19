@@ -1,75 +1,168 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Nandan%20K%20S&fontSize=80&fontAlignY=35&desc=Building%20at%20the%20intersection%20of%20AI,%20Systems,%20and%20Web&descAlignY=60&descAlign=50" alt="Header" />
-  
-  <p>
-    <a href="https://www.linkedin.com/in/nandan-k-s-1991a0225">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:nandanks058@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://github.com/nandan-19">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
+
+# Nandan K S  
+### Systems • Networking • Local-First Software
+
+*I build software that moves data, coordinates peers, and survives real-world constraints.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandan-k-s-1991a0225)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nandanks058@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nandan-19)
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 🧠 About Me
 
-> *I'm a Pre-final Year CS Undergrad at DSATM, passionate about how software interacts with hardware and AI.*
+I’m a **pre-final year Computer Science undergrad** with a strong bias toward **systems programming and networking**.
 
-- 🔭 **Building:** Practical products combining **Generative AI**, **System-level design**, and **Full-stack engineering**.
-- 🌱 **Exploring:** Deep diving into **Rust**, **Embedded Systems (LPC214x)**, and **Cloud Infrastructure**.
-- ⚙️ **Workflow:** I develop on **Arch Linux** (Hyprland) with **Neovim** & **Tmux**.
-- 🧠 **Interests:** Compiler Design, High-performance Computing, and Agentic AI workflows.
+I enjoy working close to the metal:
+- peer discovery
+- TCP/UDP coordination
+- state machines
+- long-running daemons
+- local-first, cloud-optional systems
+
+I use **AI pragmatically** — when it reduces friction or unlocks automation — not as a buzzword.
+
+I develop primarily on **Arch Linux** using **Neovim + tmux**.
 
 ---
 
-### 🛠 Tech Stack
+## 🔧 Core Focus Areas
+
+- **Systems & Networking**
+  - TCP / UDP
+  - peer discovery & handshakes
+  - finite state machines
+  - daemon-style processes
+  - IPC boundaries
+
+- **Rust**
+  - ownership-driven design
+  - concurrency & async I/O
+  - portable binaries
+  - CLI & background services
+
+- **Distributed Systems (Applied)**
+  - local-first design
+  - eventual consistency (in progress)
+  - sync & conflict models
+
+- **Applied AI**
+  - RAG pipelines
+  - automation agents
+  - voice-first interfaces
+
+---
+
+## 🛠 Tech Stack (Signal > Noise)
+
+**Primary**
+- **Rust**, **TypeScript**, **Python**
+- TCP / UDP networking
+- Next.js, FastAPI
+
+**Used When Needed**
+- MongoDB, PostgreSQL
+- Docker, Git
+- Solidity (hackathons / prototyping)
+
+---
+
+## 🚀 Projects That Define Me
+
+### 🔗 ORB  
+**Peer-to-Peer File Transfer CLI (Rust)**
+
+A standalone, portable P2P file transfer tool built to validate low-level networking primitives.
+
+**What it does**
+- UDP broadcast–based peer discovery
+- Peer table with eventual consistency
+- TCP handshake with explicit consent
+- Finite State Machine: `IDLE → SEND → RECEIVE`
+- Non-blocking I/O with safe concurrency
+- Compiled into a portable Windows `.exe` (no Rust runtime required)
+
+> ORB exists to prove the transport layer before building a full sync engine.
+
+---
+
+### ♾ Ouroboros *(ongoing)*  
+**Local-First Peer-to-Peer File Synchronization Daemon**
+
+My long-term systems project.
+
+**Vision**
+- Always-on background daemon
+- Peer-to-peer, no central server
+- Local-first with offline tolerance
+- Conflict-aware file synchronization
+
+**Planned**
+- vector clocks
+- conflict detection
+- chunked / diff-based sync
+- ORB used as the transport layer via IPC
+
+> This project is intentionally slow, deliberate, and correctness-focused.
+
+---
+
+### 📚 Edumatrix  
+**RAG-Based “Ask Your PDFs” System**
+
+- Upload documents → ask context-aware questions
+- Full-stack system with retrieval + generation
+- Designed for students and researchers
+
+**Stack**
+- Next.js
+- FastAPI
+- Mistral
+- RAG pipelines
+
+---
+
+## 🏆 Hackathons & Achievements
+
+### 🥈 HaccVerse 25’ — 1st Runner-Up  
+**Voice-First Blockchain Transaction Agent**
+
+- Natural language → Ethereum transactions
+- Voice commands mapped to smart contract calls
+- Solidity + ethers.js + voice AI
+
+---
+
+### 🚀 The Great Bengaluru Hackathon 2025  
+**Top 150 / 1300+ Teams**
+
+- Multilingual AI-based loan advisor
+- RAG-driven financial explanations
+- Real-time eligibility logic
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-| **Category** | **Technologies** |
-|:---:|:---|
-| **Languages** | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) |
-| **Frameworks** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-| **AI & NLP** | ![Mistral](https://img.shields.io/badge/Mistral_AI-F5A623?style=flat-square) ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white) |
-| **Dev Tools** | ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+<img src="https://github-readme-stats.vercel.app/api?username=nandan-19&show_icons=true&hide_border=true&theme=catppuccin_latte" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandan-19&layout=compact&hide_border=true&theme=catppuccin_latte&langs_count=6" height="160" />
 
 </div>
 
 ---
 
-### 🚀 Highlight Projects
+## 🧭 What I Care About
 
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **🏦 [Plutus](https://github.com/nandan-19/Plutus)** | **AI-Powered Personal Finance Guide**<br>A voice-first web app that enhances financial literacy through natural conversation. Helps users track expenses and understand complex loan terms simply. | `React Native` `Sarvam AI` `MongoDB` |
-| **📚 [Edumatrix](https://github.com/nandan-19/Edumatrix-AI)** | **Ask Your PDFs Anything**<br>Full-stack RAG chatbot that turns static documents into interactive knowledge bases. Perfect for students researchers needing context-aware answers. | `Next.js` `FastAPI` `Mistral` `RAG` |
-| **📈 [FinTok Auto](https://github.com/THETITAN220/FinTok2.0)** | **Automated Content Pipeline**<br>An end-to-end Python pipeline that scripts, narrates (TTS), edits, and uploads finance Shorts to YouTube automatically. | `Python` `FFmpeg` `YouTube API` |
+- correctness over hype  
+- clarity over cleverness  
+- systems that fail *predictably*  
+- tools that respect user autonomy  
 
----
+If that resonates — we’ll get along.
 
-### 🏆 Hackathon Achievements
-
-#### 🥈 1st Runner-Up @ HaccVerse 25' (REVA University)
-**Project:** *Plutus (Blockchain Edition)*
-> An AI-powered, voice-first blockchain agent that enables natural language Ethereum transactions.
-- **Voice-to-Crypto:** Execute smart contracts using voice commands via **Sarvam AI**.
-- **Tech:** Next.js, Solidity, ethers.js, MetaMask.
-
-#### 🚀 Top 150 (out of 1300+) @ The Great Bengaluru Hackathon 2025
-**Project:** *FinTok (Advisor Edition)*
-> A multilingual, AI-based conversational loan advisor.
-- **Features:** Real-time loan eligibility checks and RAG-based financial insights.
-- **Tech:** Gemini Flash, Flask, MongoDB.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandan-19&show_icons=true&theme=catppuccin_latte&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandan-19&layout=compact&theme=catppuccin_latte&hide_border=true&langs_count=6" alt="Top Languages" />
-</div>
