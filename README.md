@@ -3,7 +3,8 @@
 3rd-year CSE undergrad focused on full-stack, backend, and systems programming. I build across MERN, Rust, and Python, and I like experimenting with developer tooling and tiling window managers (GlazeWM/i3).
 
 ## Tech Stack
-- **Languages:** JavaScript, TypeScript, C++, C, Python, Rust (frontend basics)
+- **Languages:** JavaScript, TypeScript, C++, C, Python, Rust
+- **Frontend:** HTML/CSS basics
 - **Frameworks:** Vite, Node.js, Next.js, FastAPI, Flask
 - **Databases:** SQL, MongoDB, Postgres, Cassandra
 - **Expertise:** Full-stack, Backend, Systems Programming
