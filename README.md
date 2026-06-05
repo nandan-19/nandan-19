@@ -51,6 +51,11 @@
 ### Stats
 
 <div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nandan-19&theme=tokyonight&hide_border=true&border_radius=8)](https://github.com/nandan-19)
+
+<br/>
+
 [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nandan-19&theme=tokyonight)](https://github.com/nandan-19) [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nandan-19&theme=tokyonight)](https://github.com/nandan-19)
 
 <br/>
