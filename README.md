@@ -45,7 +45,6 @@ Here are a few things I've been tinkering with lately:
 
 | Project | The TL;DR | Stack |
 |---|---|---|
-| **Ouroboros** | A local-first distributed system. Basically, what if we stopped trusting the cloud to sync everything and handled state, consensus, and conflicts strictly locally? | Rust, Distributed Systems |
 | [**ai-cli**](https://github.com/nandan-19/ai-cli) | An autonomous agent that lives in your terminal. It asks questions, generates commits, and runs commands to make your shell smarter. | Rust, Groq |
 | [**EdgePulse**](https://github.com/nandan-19/EdgePulse) | A real-time telemetry pipeline for ICU vitals. It ingests data via Kafka, hunts for anomalies using PySpark, and streams the results live. | Kafka, PySpark, PostgreSQL |
 | [**Pre-Meeting Assistant**](https://github.com/nandan-19/Pre-Meeting-Assistant) | An AI copilot that reads your Slack and Calendar so you don't walk into meetings completely blind. Handles the follow-ups, too. | TypeScript, Gemini |
@@ -56,10 +55,11 @@ Here are a few things I've been tinkering with lately:
 ### The Grind
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nandan-19&theme=tokyonight&hide_border=true&border_radius=8&v=1)](https://github.com/nandan-19)
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nandan-19&theme=tokyonight&hide_border=true&border_radius=8)](https://github.com/nandan-19)
 
 <br/>
+
 
 [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nandan-19&theme=tokyonight)](https://github.com/nandan-19) [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nandan-19&theme=tokyonight)](https://github.com/nandan-19)
 
