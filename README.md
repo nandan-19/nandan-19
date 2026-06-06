@@ -35,7 +35,7 @@
 ### Where I've been
 
 * **Developer Intern @ Kroolo** *(July '25 - Aug '25)* — Spent the summer shipping production code and improving core developer workflows. 
-* **1st Runner-Up @ HaccVerse** '25 *(March '25)* — Placed 2nd at a national-level hackathon for rapidly prototyping and delivering a technical solution from scratch in under 24 hours.
+* **1st Runner-Up @ HaccVerse** '25 *(March '25)* — For building Plutus, an AI-powered voice-first blockchain transaction assistant focused on simplifying crypto interactions.
 
 ---
 
